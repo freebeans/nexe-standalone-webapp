@@ -1,0 +1,5 @@
+node_modules
+build/bundle/*.js
+build/dist/*
+build/js/*
+yarn-error.log

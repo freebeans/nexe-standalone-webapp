@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "build/js",
+
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noImplicitReturns": true,
+        "noUnusedParameters": true,
+
+        "pretty": true,
+        "removeComments": true,
+    
+        "module": "CommonJS"
+    },
+    "include": ["src/ts/**/*"]
+}
